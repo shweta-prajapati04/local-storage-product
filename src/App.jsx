@@ -8,7 +8,6 @@ function App() {
     <>
     <center>
       <div style={{width:"700px" }}>
-
         <Forms />
       </div>
       </center>
